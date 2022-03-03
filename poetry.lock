@@ -155,7 +155,7 @@ lxml = ["lxml"]
 
 [[package]]
 name = "bot-core"
-version = "2.1.0"
+version = "3.0.0"
 description = "Bot-Core provides the core functionality and utilities for the bots of the Python Discord community."
 category = "main"
 optional = false
@@ -166,7 +166,7 @@ disnake = ">=2,<3"
 
 [package.source]
 type = "url"
-url = "https://github.com/python-discord/bot-core/archive/refs/tags/v2.1.0.zip"
+url = "https://github.com/python-discord/bot-core/archive/refs/tags/v3.0.0.zip"
 [[package]]
 name = "certifi"
 version = "2021.10.8"
@@ -1153,7 +1153,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = "3.9.*"
-content-hash = "b8b28311c13f7a66f028041bae889131d3916ca7f667c9a7539871d21bbcd077"
+content-hash = "e4828d46fc4ce002fed010986558a26a2edecf410ba7884f42f96e77d91a3844"
 
 [metadata.files]
 aio-pika = [
